@@ -13,3 +13,5 @@ class SolutionTest(unittest.TestCase):
         self.assertEqual(solution(123456798), 123456789)
         self.assertEqual(solution(123456789), -1)
         self.assertEqual(solution(1234567908), 1234567890)
+        self.assertEqual(solution(1027), -1)
+        self.assertEqual(solution(1207), 1072)

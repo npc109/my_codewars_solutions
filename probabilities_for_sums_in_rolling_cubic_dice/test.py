@@ -1,5 +1,5 @@
 import unittest
-from Probabilities_for_Sums_in_Rolling_Cubic_Dice.solution import rolldice_sum_prob
+from probabilities_for_sums_in_rolling_cubic_dice.solution import rolldice_sum_prob
 
 
 class SolutionTest(unittest.TestCase):
