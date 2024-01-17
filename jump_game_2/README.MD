@@ -1,0 +1,1 @@
+Решение задачи https://leetcode.com/problems/jump-game-ii/?source=submission-ac
